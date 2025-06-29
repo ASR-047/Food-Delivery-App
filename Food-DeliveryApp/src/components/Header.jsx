@@ -1,4 +1,4 @@
-import { LOGO_URL } from "../utils";
+import { LOGO_URL } from "../Utils/utils";
 import "../Styles/Header.css";
 
 const Header = () => {

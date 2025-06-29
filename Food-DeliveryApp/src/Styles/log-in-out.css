@@ -54,3 +54,7 @@
 #signupText{
     cursor: pointer;
 }
+
+#errorMsg{
+    color: #ED3500;
+}

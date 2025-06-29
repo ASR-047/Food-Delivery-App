@@ -10,9 +10,9 @@ function App() {
 
   return (
     <>
-      
+       <Browse/>
       <LoginPage/>
-      <Browse/>
+     
     </>
   )
 }
